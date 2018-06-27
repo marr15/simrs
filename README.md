@@ -1,2 +1,2 @@
-# APeK
-Aplikasi Penggajian Karyawan Berbasis Web
+# SIMRS
+Sistem Informasi Rumah sakit
